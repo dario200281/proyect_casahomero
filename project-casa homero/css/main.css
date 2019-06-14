@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body{
+	background:#f4f4f4;
+	font-family:arial,helvetica,sans-serif;
+	font-size:15px;
+	
+	}
+	header{background-color:#292c37;
+	color:#fff;
+	height:70px;
+	border-bottom:#ffba08 5px solid;
+	padding:15px;
+	}
+	nav{
+	float:right;
+	margim-top:10px;
+	}
+	li{
+	float:left;
+	padding-right:15px;
+	text-transform:uppercase;
+	}
+	a{
+	text-decoratiom:nome;
+	color:#ffffff;
+	}
+	li{
+	list-style:nome;
+	}
+	a:hover{
+color:#b7b4b4;
+	}
+	
